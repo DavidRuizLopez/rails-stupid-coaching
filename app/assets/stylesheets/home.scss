@@ -1,0 +1,29 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1 {
+  padding: auto;
+  text-align: center;
+  color: green;
+}
+
+h2 {
+  text-align: center;
+  color: red;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+  background-color: pink;
+  padding: 25px;
+  border-radius: 5px;
+  text-align: center;
+
+}
+
+form {
+  text-align: center;
+  margin-top: 50px;
+}
